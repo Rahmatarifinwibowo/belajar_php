@@ -1,0 +1,65 @@
+body{
+    background: #f2f;
+    font-family: monospace;
+    }
+.calculator{
+    width: 350px;
+    background: #2F495A;
+    margin: 200px auto;
+    padding: 10px 20px 50px 20px;
+    border-radius: 5px;
+    box-shadow: 0px 10px 20px 0px #d1d1d1;    
+}
+
+.input{
+    width: 300px;
+    margin: 5px;
+    border:none;
+    font-size: 16pt;
+    border-radius: 5px;
+    padding: 10px;
+    color:#d1d1d1;
+}
+.input1{
+    width: 300px;
+    margin: 5px;
+    border:none;
+    font-size: 16pt;
+    border-radius: 5px;
+    padding: 10px;
+}
+.input2{
+    width: 300px;
+    margin: 5px;
+    border:none;
+    font-size: 16pt;
+    border-radius: 5px;
+    padding: 10px;
+}
+.opt{
+    font-size: 16pt;
+    border: none;
+    width: 215px;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 10px;
+    }
+.button{
+    background: #ec5159;
+    width:85px;
+    margin: 5px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color:#eee;
+    font-size: 16pt;
+    border-bottom: 3px  #eee;
+    border-right: 3px  #eee;
+    }
+.judul{
+    text-align: center;
+    color: #eee;
+    font-weight: bold;
+}
